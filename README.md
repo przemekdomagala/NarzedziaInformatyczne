@@ -23,3 +23,5 @@ print('Hello World')
 |--------------|---------------|
 | *Dopiero poznaje* | *Był w gimnazjum* | \
 | **Chyba do ogarnięcia** | _do ogarnięcia_ | \
+
+![Tekst zastępczy](C:\Users\Przemek\narzedzia_informatyczne\animals\cat.jpg)
