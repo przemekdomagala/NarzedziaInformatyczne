@@ -24,4 +24,6 @@ print('Hello World')
 | *Dopiero poznaje* | *Był w gimnazjum* | \
 | **Chyba do ogarnięcia** | _do ogarnięcia_ | \
 
+na obrazku znajduje się kot
+
 ![cat](https://github.com/przemekdomagala/narzedzia_informatyczne/blob/main/animals/cat.jpg)
